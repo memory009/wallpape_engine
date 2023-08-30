@@ -11,7 +11,7 @@ https://github.com/notscuffed/repkg
 # 在git clone下来的目录中，右键“在终端中打开”
 cd repkg
 # 请使用资源管理器中的地址代替“your_path”
-.\RePKG.exe extract your_path.pkg
+.\RePKG.exe extract your_path/scene.pkg
 ```
 
 * 运行成功后，你将得到一个在根目录中得到一个名为“output”的文件夹，壁纸在output/material/中...
